@@ -254,7 +254,7 @@ nav button svg {
 #page3 {
   height: 100vh;
   width: 100%;
-  background-image: url(./IMG.jpg);
+  background-image: url(./images/IMG.jpg);
   background-position: center;
   background-size: cover;
   display: flex;
